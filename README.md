@@ -5,3 +5,6 @@
 * The future enhance will be located in Utility where it stores
 * methods, variables for future expansion of the project
 * Required JAVA FX SDK */
+
+  <img src="main.png" alt="alt text" title="Main" />
+
